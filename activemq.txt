@@ -1,0 +1,5 @@
+docker run --name='activemq' -it --network host webcenter/activemq:latest
+
+or check the docker containers and docker start 
+
+http://localhost:8161/admin/
